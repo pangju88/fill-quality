@@ -459,6 +459,6 @@ conda run -p ~/quant_env python -m intraday.query --count
 
 ## 联系作者
 
-遇到这份教程解决不了的问题，找项目作者（你那个狠人朋友）。
+沒事別聯繫！
 
 祝交易顺利！🎯
