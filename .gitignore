@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data & results (local only)
+results/
+*.duckdb
+*.duckdb.wal
+*.parquet
+snapshots/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
